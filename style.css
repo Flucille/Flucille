@@ -87,3 +87,8 @@ li.dropdown {
 .title {
   padding-top: 22px;
 }
+
+img {
+  width: 25%;
+  height: auto;
+}
